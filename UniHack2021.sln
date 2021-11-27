@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniHack2021", "UniHack2021\UniHack2021.csproj", "{6E458AF5-5946-4F67-BA3A-11ED4DA67E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E458AF5-5946-4F67-BA3A-11ED4DA67E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E458AF5-5946-4F67-BA3A-11ED4DA67E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E458AF5-5946-4F67-BA3A-11ED4DA67E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E458AF5-5946-4F67-BA3A-11ED4DA67E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99DDF79C-4A7F-460A-BC04-770DF0859FA3}
+	EndGlobalSection
+EndGlobal
